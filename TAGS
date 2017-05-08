@@ -1,0 +1,40 @@
+
+./app/Main.hs,52
+module Main Main0,1
+main main4,5
+main main5,6
+
+./Setup.hs,15
+main main1,2
+
+./test/Spec.hs,30
+main main0,1
+main main1,2
+
+./src/Lib.hs,699
+module Lib Lib0,1
+hello hello2,3
+hello hello3,4
+fib fib5,6
+fib fib6,7
+myLast myLast11,12
+myLast myLast12,13
+myButLast myButLast16,17
+myButLast myButLast17,18
+elementAt elementAt21,22
+elementAt elementAt22,23
+myLength myLength26,27
+myLength myLength27,28
+myReverse myReverse31,32
+myReverse myReverse32,33
+myReverse' myReverse'35,36
+myReverse' myReverse'36,37
+isPalindrome isPalindrome39,40
+isPalindrome isPalindrome40,41
+isPalindrome' isPalindrome'42,43
+isPalindrome' isPalindrome'43,44
+data NestedList NestedList48,49
+data NestedList a = Elem Elem48,49
+data NestedList a = Elem a | List List48,49
+myFlatten myFlatten50,51
+myFlatten myFlatten51,52
